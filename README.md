@@ -1,4 +1,4 @@
-# Bikini Bottom Clicky Game
+# Spongebobs Bikini Bottom Clicky Game
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
