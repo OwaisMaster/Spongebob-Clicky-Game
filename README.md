@@ -18,7 +18,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### [PLAY HERE](https://bikini-bottom-clicky-game.herokuapp.com/) 
 ##### `https://bikini-bottom-clicky-game.herokuapp.com/`
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
