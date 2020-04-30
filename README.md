@@ -17,7 +17,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * `Spongebobs-Clicky-Game` is built with `React.js`. Thus, the application is component based, able to keep track of change events using `state`, and updates to the page render dynamically and without page refresh.
 
 ### [PLAY HERE](https://bikini-bottom-clicky-game.herokuapp.com/) 
-### `https://bikini-bottom-clicky-game.herokuapp.com/`
+##### `https://bikini-bottom-clicky-game.herokuapp.com/`
 
 
 ## Available Scripts
